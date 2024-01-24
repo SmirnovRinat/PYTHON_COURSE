@@ -85,9 +85,9 @@ if __name__ == "__main__":
 ```
 Результат вывода в терминал:
 
-> ![image_answer_in_terminal]()
+> ![image_answer_in_terminal](https://raw.githubusercontent.com/SmirnovRinat/PYTHON_COURSE/main/Homewook_12/image_answer_in_terminal.png)
 
 Результат вывода в файл phonebook.txt:
 
-> ![image_phonebook.txt]()
+> ![image_phonebook.txt](https://raw.githubusercontent.com/SmirnovRinat/PYTHON_COURSE/main/Homewook_12/image_phonebook.png)
 
