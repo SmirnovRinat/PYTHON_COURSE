@@ -1,8 +1,6 @@
 # Промежуточная аттестация.
 
-##  Задание 44. 
-
-В ячейке ниже представлен код генерирующий DataFrame, которая состоит всего из 1 столбца. Ваша задача перевести его в one hot вид. Сможете ли вы это сделать без get_dummies?
+##  Задание 44. В ячейке ниже представлен код генерирующий DataFrame, которая состоит всего из 1 столбца. Ваша задача перевести его в one hot вид. Сможете ли вы это сделать без get_dummies?
 ```py
 import random
 lst = ['robot'] * 10
@@ -33,4 +31,4 @@ data.columns = data.columns.droplevel()
 data.columns.name = None
 print(data)
 ```
-> ![image_answer_in_terminal]()
+> ![image_answer_in_terminal](https://raw.githubusercontent.com/SmirnovRinat/PYTHON_COURSE/main/Final_control_work/image_answer_in_terminal.png)
